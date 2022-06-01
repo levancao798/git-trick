@@ -1,0 +1,3 @@
+git remote set-url --add --push USER-ID REMOTE-URL-1
+git remote set-url --add --push USER-ID REMOTE-URL-2
+ git add -A && git commit -m "init env" && git push origin master
